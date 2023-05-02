@@ -25,7 +25,7 @@
 .btn-primary{
     font-size:25px;
     height: 3rem;
-    width: 10rem;
+    width: 14rem;
     margin-top: 5%;
     background-color: rgb(255, 0, 0);
     border-color: red;
@@ -51,4 +51,6 @@
 .forgot{
     text-decoration: none;
 }
-
+.btns{
+    margin-left: 5%;
+}
